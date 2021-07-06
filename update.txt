@@ -1,0 +1,5 @@
+{
+	"ver": "1.0",
+	"msg": "资源下载1.0",
+	"url": "https://github.com/bigsinger/ResDown"
+}
